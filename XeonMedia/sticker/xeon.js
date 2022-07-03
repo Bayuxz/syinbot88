@@ -1,3 +1,3 @@
 {
-	"name": "|SyinXD Only 24Jam"
+	"name": "|SyinXD Only 24Jam|"
 }
