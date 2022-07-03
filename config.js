@@ -29,7 +29,7 @@ global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = true //auto reading in gc (true to on, false to off)
 global.autoReadAll = true // auto reading in all pchat gc and status (true to on, false to off)
-global.autoRecord = true //auto recording (true to on, false to off)
+global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 //documents variants
@@ -42,25 +42,25 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.owner = ['6285822347348'] //ur owner number
-global.ownername = "ArullOfc"
-global.ytname = "YT:ARULL OFC " //ur yt chanel name
-global.socialm = "GitHub: Warikrr" //ur github or insta name
-global.location = "Indonesia, Kalimantan Selatan, Kotabaru" //ur location
+global.ownername = "BayXZ"
+global.ytname = "YT: BayXZ YT" //ur yt chanel name
+global.socialm = "Discord: https://discord.gg/GXWDJBTW" //ur github or insta name
+global.location = "Privasi :v" //ur location
 
 //bot bombdy
-global.botname = "ArullBotz" //ur bot name
-global.websitex = "https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg" //ur website
+global.botname = "SyinXD" //ur bot name
+global.websitex = "https://minecraftpocket-servers.com/server/118409/vote/confirm/" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/eFNTvNt.mp4' } //gif and video menu
-global.packname = "Sticker By"
-global.author = "ArullBotz"
-global.themeemoji = "🐶"
+global.packname = "XD"
+global.author = "SyinBotz"
+global.themeemoji = "😱"
 global.reactmoji = "🗿"
-global.ownertag = ['ArullOfc'] //ur owner tag
-global.ownernummenu = ['6285822347348'] //ur owner number in menu and all
-global.watermark = "ArullBotz" //ur watermark
-global.botscript = "https://youtu.be/Gr6yuCbSGTI"
-global.linkz1 = "https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS"
-global.linkz2 = "https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg"
+global.ownertag = ['BayXZ'] //ur owner tag
+global.ownernummenu = ['6289506312533'] //ur owner number in menu and all
+global.watermark = "syinxd" //ur watermark
+global.botscript = "-"
+global.linkz1 = "https://chat.whatsapp.com/CaQwP28Mt8Z2149bvILy2U"
+global.linkz2 = "https://youtube.com/channel/UCvR7ud3DmDhFfQtn15gr4nQ"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -95,14 +95,14 @@ global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
     success: 'Done✓',
-    admin: '*Khusus Admin*',
-    botAdmin: '*Bot Bukan Admin*',
-    owner: '*Khusus Pemilik Bot*',
-    group: '*Khusus Didalam Group*',
-    private: '*Khusus Chat Private*',
+    admin: '*Hanya untuk Admins*',
+    botAdmin: '*Belum dijadikan admin anjg*',
+    owner: '*Khusus Owner bot*',
+    group: '*Hanya bisa digunakan Digrup*',
+    private: '*Hanya bisa digunakan private chat*',
     bot: '*Khusus Yang Jadibot*',
     wait: '*Sabar...Orang sabar disayang janda*',
-    linkm: '*Linknya Mana?*',
+    linkm: '*Linknya Mana? Lol*',
     error: 'Error!',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
