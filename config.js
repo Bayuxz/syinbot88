@@ -49,13 +49,13 @@ global.location = "Privasi :v" //ur location
 
 //bot bombdy
 global.botname = "SyinXD" //ur bot name
-global.websitex = "https://minecraftpocket-servers.com/server/118409/vote/confirm/" //ur website
+global.websitex = "https://youtube.com/channel/UCvR7ud3DmDhFfQtn15gr4nQ" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/eFNTvNt.mp4' } //gif and video menu
 global.packname = "XD"
 global.author = "SyinBotz"
 global.themeemoji = "😱"
 global.reactmoji = "🗿"
-global.ownertag = ['BayXZ'] //ur owner tag
+global.ownertag = ['6289506312533@s.whatsapp.net'] //ur owner tag
 global.ownernummenu = ['6289506312533'] //ur owner number in menu and all
 global.watermark = "syinxd" //ur watermark
 global.botscript = "-"
